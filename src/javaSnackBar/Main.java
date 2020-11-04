@@ -1,5 +1,11 @@
 package javaSnackBar;
 
+/*
+Snack
+VendingMachine
+Customer
+*/
+
 public class Main
 {
 	private static void workWithData()
